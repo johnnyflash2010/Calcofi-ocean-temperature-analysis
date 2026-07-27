@@ -65,11 +65,14 @@ Variables used include:
 
 ### Temperature Versus Depth
 
-![Temperature versus depth](images/temperature_vs_depth.png)
+![Scatterplot showing temperature versus depth](images/temperature_vs_depth.png)
 
 ### Average Temperature by Depth
 
 ![Average temperature by depth](images/average_temperature_by_depth.png)
+
+### Actual vs Predicted Temperatures
+![Actual_vs_Predicted_Temperatures](images/actual_vs_predicted_temperature.png)
 
 ## Model
 
