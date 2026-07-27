@@ -4,7 +4,7 @@ Data science project using Python and linear regression to analyze and predict o
 # Predicting Ocean Temperature Using Water Depth
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-(https://colab.research.google.com/drive/1wgKVrtlaZSmQHMFA7DQtnAdTIqf_kFiP?usp=sharing)
+(https://colab.research.google.com/drive/1wgKVrtlaZSmQHMF...usp=sharing)
 
 ## Project Overview
 
