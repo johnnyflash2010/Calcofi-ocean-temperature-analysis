@@ -106,11 +106,9 @@ Future analysis could include:
 
 ## View the Notebook
 
-[Open the complete CalCOFI Ocean Temperature Analysis notebook](Calcofi-ocean-temperature-analysis.ipynb)
+[Open the complete CalCOFI Ocean Temperature Analysis notebook](CalCOFI_Ocean_Temperature_Analysis.ipynb)
 
-## Presentation
-
-View the final project presentation here:
+## View the final project presentation
 
 [Final Project Presentation (PDF)](presentation/Final_Project_Presentation.pdf)
 
