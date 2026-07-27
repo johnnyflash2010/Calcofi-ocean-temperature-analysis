@@ -3,7 +3,7 @@ Data science project using Python and linear regression to analyze and predict o
 
 # Predicting Ocean Temperature Using Water Depth
 
-[![Open In Colab](https://colab.research.google.com/github/johnnyflash2010/Calcofi-ocean-temperature-analysis/blob/main/CalCOFI_Ocean_Temperature_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johnnyflash2010/Calcofi-ocean-temperature-analysis/blob/main/CalCOFI_Ocean_Temperature_Analysis.ipynb)
 
 ## Project Overview
 
