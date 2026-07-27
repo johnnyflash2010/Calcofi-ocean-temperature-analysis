@@ -108,6 +108,12 @@ Future analysis could include:
 
 [Open the complete CalCOFI Ocean Temperature Analysis notebook](Calcofi-ocean-temperature-analysis.ipynb)
 
+## Presentation
+
+View the final project presentation here:
+
+[Final Project Presentation (PDF)](presentation/Final_Project_Presentation.pdf)
+
 ## Author
 
 John Griffith
