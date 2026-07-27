@@ -67,14 +67,15 @@ Variables used include:
 
 ### Temperature Versus Depth
 
-![Scatterplot showing temperature versus depth](images/temperature_vs_depth.png)
+![Scatterplot showing temperature versus depth](temperature_vs_depth.png)
 
 ### Average Temperature by Depth
 
-![Average temperature by depth](images/average_temperature_by_depth.png)
+![Average temperature by depth](average_temperature_by_depth.png)
 
 ### Actual vs Predicted Temperatures
-![Actual_vs_Predicted_Temperatures](images/actual_vs_predicted_temperature.png)
+
+![Actual vs Predicted Temperatures](actual_vs_predicted_temperature.png)
 
 ## Model
 
@@ -105,9 +106,7 @@ Future analysis could include:
 
 ## View the Notebook
 
-Open the complete analysis:
-
-[CalCOFI Ocean Temperature Analysis](CalCOFI_Ocean_Temperature_Analysis.ipynb)
+[Open the complete CalCOFI Ocean Temperature Analysis notebook](Calcofi-ocean-temperature-analysis.ipynb)
 
 ## Author
 
