@@ -110,7 +110,7 @@ Future analysis could include:
 
 ## View the final project presentation
 
-[Final Project Presentation (PDF)](presentation/Final_Project_Presentation.pptx)
+[Final Project Presentation (PPTX)](presentation/Final_Project_Presentation.pptx)
 
 ## Author
 
